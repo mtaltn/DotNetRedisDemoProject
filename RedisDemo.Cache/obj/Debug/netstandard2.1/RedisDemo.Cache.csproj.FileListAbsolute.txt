@@ -1,0 +1,10 @@
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\bin\Debug\netstandard2.1\RedisDemo.Cache.deps.json
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\bin\Debug\netstandard2.1\RedisDemo.Cache.dll
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\bin\Debug\netstandard2.1\RedisDemo.Cache.pdb
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\obj\Debug\netstandard2.1\RedisDemo.Cache.csproj.AssemblyReference.cache
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\obj\Debug\netstandard2.1\RedisDemo.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\obj\Debug\netstandard2.1\RedisDemo.Cache.AssemblyInfoInputs.cache
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\obj\Debug\netstandard2.1\RedisDemo.Cache.AssemblyInfo.cs
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\obj\Debug\netstandard2.1\RedisDemo.Cache.csproj.CoreCompileInputs.cache
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\obj\Debug\netstandard2.1\RedisDemo.Cache.dll
+C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\obj\Debug\netstandard2.1\RedisDemo.Cache.pdb

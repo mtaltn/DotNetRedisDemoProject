@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2I0zTfrjXHz62EVRgGo2DFj2egzVfN9+DgQppcTgmYg=",
+  "Source": "RedisDemo.Api",
+  "BasePath": "_content/RedisDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

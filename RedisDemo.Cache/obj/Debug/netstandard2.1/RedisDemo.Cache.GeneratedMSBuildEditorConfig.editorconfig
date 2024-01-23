@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = RedisDemo.Cache
+build_property.ProjectDir = C:\Users\tmehm\source\repos\DotNetRedisDemoProject\RedisDemo.Cache\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
